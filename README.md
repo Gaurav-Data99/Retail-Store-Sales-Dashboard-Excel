@@ -71,7 +71,7 @@ The following cleaning steps were performed before creating the dashboard:
 # Dashboard Preview
 
 Dashboard Screenshot
-
+![Dashboard](Dashboard.png)
 # Files Included
 
 - retail_store_sales.xlsx
